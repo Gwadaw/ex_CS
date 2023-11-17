@@ -1,0 +1,14 @@
+C:\wamp64\www\HelloWord\HelloWord\bin\Debug\net6.0\HelloWord.exe
+C:\wamp64\www\HelloWord\HelloWord\bin\Debug\net6.0\HelloWord.deps.json
+C:\wamp64\www\HelloWord\HelloWord\bin\Debug\net6.0\HelloWord.runtimeconfig.json
+C:\wamp64\www\HelloWord\HelloWord\bin\Debug\net6.0\HelloWord.dll
+C:\wamp64\www\HelloWord\HelloWord\bin\Debug\net6.0\HelloWord.pdb
+C:\wamp64\www\HelloWord\HelloWord\obj\Debug\net6.0\HelloWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\wamp64\www\HelloWord\HelloWord\obj\Debug\net6.0\HelloWord.AssemblyInfoInputs.cache
+C:\wamp64\www\HelloWord\HelloWord\obj\Debug\net6.0\HelloWord.AssemblyInfo.cs
+C:\wamp64\www\HelloWord\HelloWord\obj\Debug\net6.0\HelloWord.csproj.CoreCompileInputs.cache
+C:\wamp64\www\HelloWord\HelloWord\obj\Debug\net6.0\HelloWord.dll
+C:\wamp64\www\HelloWord\HelloWord\obj\Debug\net6.0\refint\HelloWord.dll
+C:\wamp64\www\HelloWord\HelloWord\obj\Debug\net6.0\HelloWord.pdb
+C:\wamp64\www\HelloWord\HelloWord\obj\Debug\net6.0\HelloWord.genruntimeconfig.cache
+C:\wamp64\www\HelloWord\HelloWord\obj\Debug\net6.0\ref\HelloWord.dll
